@@ -144,7 +144,6 @@ header {
 
 section.banner {
     margin-top: 90px;
-    background: red;
     background-image: url(../image/banner-bg2.jpg);
     height: 85vh;
     background-size: cover;
